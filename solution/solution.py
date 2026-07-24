@@ -19,7 +19,7 @@ from typing import Any, Callable
 from dotenv import load_dotenv
 
 # Nạp OPENAI_API_KEY từ file .env (copy .env.example thành .env và dán key vào)
-load_dotenv(r'D:\Lab_AI\lab_1\DAY01_2A202601974_NguyenVanTruong\.env.example')
+load_dotenv(r'D:\Lab_AI\lab_1\DAY01_2A202601974_NguyenVanTruong\.env')
 
 # ---------------------------------------------------------------------------
 # Bảng giá ước tính (USD / 1K token) — cập nhật nếu giá thay đổi
